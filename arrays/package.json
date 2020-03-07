@@ -1,0 +1,12 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "practice array (geeksforgeeks)",
+  "main": "index.js",
+  "scripts": {
+    "compile": "gcc -o arrays arrays.c"
+  },
+  "author": "chatbi mustapha",
+  "license": "ISC",
+  "dependencies": {}
+}
