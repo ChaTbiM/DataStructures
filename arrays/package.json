@@ -4,7 +4,7 @@
   "description": "practice array (geeksforgeeks)",
   "main": "index.js",
   "scripts": {
-    "compile": "gcc -o arrays arrays.c"
+    "compile": "gcc -o maxs maxs.c"
   },
   "author": "chatbi mustapha",
   "license": "ISC",
